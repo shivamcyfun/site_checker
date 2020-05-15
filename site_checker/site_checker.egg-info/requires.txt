@@ -1,0 +1,5 @@
+Click
+requests
+bs4
+plyer
+lxml

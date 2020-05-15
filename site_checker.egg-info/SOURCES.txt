@@ -1,0 +1,8 @@
+README.md
+setup.py
+site_checker.egg-info/PKG-INFO
+site_checker.egg-info/SOURCES.txt
+site_checker.egg-info/dependency_links.txt
+site_checker.egg-info/entry_points.txt
+site_checker.egg-info/requires.txt
+site_checker.egg-info/top_level.txt
