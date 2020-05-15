@@ -59,7 +59,7 @@ checker start
 checker start --site {name of website}
 ```
 To stop the script, open another terminal and do the following
-```
+```python
 # Activate the environment
 # Windows
 venv\scripts\activate
